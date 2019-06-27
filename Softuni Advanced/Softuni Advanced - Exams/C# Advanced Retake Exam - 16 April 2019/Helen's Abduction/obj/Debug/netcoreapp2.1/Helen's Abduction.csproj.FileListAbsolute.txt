@@ -1,0 +1,11 @@
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.deps.json
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.runtimeconfig.json
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.runtimeconfig.dev.json
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.dll
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\bin\Debug\netcoreapp2.1\Helen's Abduction.pdb
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.csproj.CoreCompileInputs.cache
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.AssemblyInfoInputs.cache
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.AssemblyInfo.cs
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.dll
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.pdb
+C:\Users\krum\source\repos\Iterators and Comparators\Helen's Abduction\obj\Debug\netcoreapp2.1\Helen's Abduction.csprojAssemblyReference.cache
