@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace Helen_s_Abduction
@@ -12,13 +12,13 @@ namespace Helen_s_Abduction
         static int OldPCol;
         static void Main(string[] args)
         {
-            
+
 
             int energy = int.Parse(Console.ReadLine());
             int lines = int.Parse(Console.ReadLine());
 
             char[][] field = new char[lines][];
-            addInputInArray(lines, field);
+            AddInputInArray(lines, field);
 
             FindP(field);
             bool winDie = false;
@@ -37,24 +37,24 @@ namespace Helen_s_Abduction
                 OldPRow = PRow;
                 OldPCol = PCol;
 
-                MoveP(field,direction);
+                MoveP(field, direction);
 
-                if (field[PRow][ PCol] == 'S')
+                if (field[PRow][PCol] == 'S')
                 {
                     energy -= 2;
-                    field[PRow][ PCol] = 'P';
+                    field[PRow][PCol] = 'P';
                 }
-                else if(field[PRow][ PCol] == 'H')
+                else if (field[PRow][PCol] == 'H')
                 {
-                    field[PRow][ PCol] = '-';
+                    field[PRow][PCol] = '-';
                     winDie = true;
                     break;
                 }
-                else if(field[PRow][ PCol] == '-')
+                else if (field[PRow][PCol] == '-')
                 {
-                    field[PRow][ PCol] = 'P';
+                    field[PRow][PCol] = 'P';
                 }
-                
+
                 energy--;
                 if (energy <= 0)
                 {
@@ -75,7 +75,7 @@ namespace Helen_s_Abduction
 
         }
 
-        private static void MoveP(char[][] field,string direction)
+        private static void MoveP(char[][] field, string direction)
         {
             if (direction == "up")
             {
@@ -130,13 +130,13 @@ namespace Helen_s_Abduction
             }
         }
 
-        private static void addInputInArray(int Lines, char[][] Field)
+        private static void AddInputInArray(int Lines, char[][] Field)
         {
             for (int i = 0; i < Lines; i++)
             {
                 var x = Console.ReadLine().ToCharArray();
 
-                    Field[i] = x;
+                Field[i] = x;
             }
         }
     }
