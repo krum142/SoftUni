@@ -71,7 +71,7 @@ namespace Helen_s_Abduction
             {
                 Console.WriteLine($"Paris died at {PRow};{PCol}.");
             }
-            Test(field);
+            PrintField(field);
 
         }
 
@@ -107,7 +107,7 @@ namespace Helen_s_Abduction
             }
         }
 
-        private static void Test(char[][] field)
+        private static void PrintField(char[][] field)
         {
 
             foreach (var item in field)
