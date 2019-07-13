@@ -1,0 +1,10 @@
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\bin\Debug\netcoreapp2.1\05 GreedyTimes.deps.json
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\bin\Debug\netcoreapp2.1\05 GreedyTimes.runtimeconfig.json
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\bin\Debug\netcoreapp2.1\05 GreedyTimes.runtimeconfig.dev.json
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\bin\Debug\netcoreapp2.1\05 GreedyTimes.dll
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\bin\Debug\netcoreapp2.1\05 GreedyTimes.pdb
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\obj\Debug\netcoreapp2.1\05 GreedyTimes.csproj.CoreCompileInputs.cache
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\obj\Debug\netcoreapp2.1\05 GreedyTimes.AssemblyInfoInputs.cache
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\obj\Debug\netcoreapp2.1\05 GreedyTimes.AssemblyInfo.cs
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\obj\Debug\netcoreapp2.1\05 GreedyTimes.dll
+C:\Users\krum\source\repos\WorkingWithAbstractions\05 GreedyTimes\obj\Debug\netcoreapp2.1\05 GreedyTimes.pdb
